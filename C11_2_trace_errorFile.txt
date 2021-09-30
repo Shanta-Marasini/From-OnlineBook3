@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "C:/Users/User/PycharmProjects/onlinebook3/practice.py", line 8, in <module>
+    raise Exception('This is an exception ok.')
+Exception: This is an exception ok.
